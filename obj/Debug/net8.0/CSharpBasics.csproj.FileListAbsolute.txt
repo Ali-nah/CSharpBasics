@@ -1,0 +1,14 @@
+C:\Users\tuyud\C#\CSharpBasics\bin\Debug\net8.0\CSharpBasics.exe
+C:\Users\tuyud\C#\CSharpBasics\bin\Debug\net8.0\CSharpBasics.deps.json
+C:\Users\tuyud\C#\CSharpBasics\bin\Debug\net8.0\CSharpBasics.runtimeconfig.json
+C:\Users\tuyud\C#\CSharpBasics\bin\Debug\net8.0\CSharpBasics.dll
+C:\Users\tuyud\C#\CSharpBasics\bin\Debug\net8.0\CSharpBasics.pdb
+C:\Users\tuyud\C#\CSharpBasics\obj\Debug\net8.0\CSharpBasics.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\tuyud\C#\CSharpBasics\obj\Debug\net8.0\CSharpBasics.AssemblyInfoInputs.cache
+C:\Users\tuyud\C#\CSharpBasics\obj\Debug\net8.0\CSharpBasics.AssemblyInfo.cs
+C:\Users\tuyud\C#\CSharpBasics\obj\Debug\net8.0\CSharpBasics.csproj.CoreCompileInputs.cache
+C:\Users\tuyud\C#\CSharpBasics\obj\Debug\net8.0\CSharpBasics.dll
+C:\Users\tuyud\C#\CSharpBasics\obj\Debug\net8.0\refint\CSharpBasics.dll
+C:\Users\tuyud\C#\CSharpBasics\obj\Debug\net8.0\CSharpBasics.pdb
+C:\Users\tuyud\C#\CSharpBasics\obj\Debug\net8.0\CSharpBasics.genruntimeconfig.cache
+C:\Users\tuyud\C#\CSharpBasics\obj\Debug\net8.0\ref\CSharpBasics.dll
